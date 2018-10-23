@@ -8,8 +8,8 @@ NOTE: Change save_excel = True to store the emails into the spreadsheet.
 The way the code is written requires Python 3.6 and requires the following imports. 
 
 Requirements:
-Python 3.6
-bs4
+\nPython 3.6
+\nbs4
 urllib
 requests
 openpyxl
