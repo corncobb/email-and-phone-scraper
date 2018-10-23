@@ -8,11 +8,17 @@ NOTE: Change save_excel = True to store the emails into the spreadsheet.
 The way the code is written requires Python 3.6 and requires the following imports. 
 
 Requirements:
-\nPython 3.6
-\nbs4
+
+Python 3.6
+
+bs4
+
 urllib
+
 requests
+
 openpyxl
+
 datetime
 
 If you have questions or want to contact me, visit my website https://www.cameroncobbconsulting.com
