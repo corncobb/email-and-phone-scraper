@@ -9,6 +9,7 @@ The way the code is written requires Python 3.6 and requires the following impor
 
 Requirements:
 Python 3.6
+
 bs4
 urllib
 requests
